@@ -3,7 +3,7 @@
 A lightweight and modern API testing interface built using React and Vite.  
 Designed for fast API exploration, request collections, history tracking, and Firebase-based authentication.
 
-Author: Supritha RP
+## Live Application: https://srpapitestingtool.netlify.app/
 
 ## 🎯 What This Project Is
 
@@ -189,3 +189,15 @@ If you find this project useful:
 - Star the repository
 - Fork and enhance it
 - Use it as a base for your own API testing tools
+
+## 📸 Screenshots
+
+Screenshots that capture the key features, usability, and responsive layout of the API Testing Tool in action.
+<img width="1872" height="790" alt="image" src="https://github.com/user-attachments/assets/009e9837-330f-49e8-a1d8-6d7bb06fcbae" />
+<img width="1676" height="753" alt="image" src="https://github.com/user-attachments/assets/65afeccc-c799-4940-8967-850d2d54aab7" />
+<img width="1905" height="705" alt="image" src="https://github.com/user-attachments/assets/500122b8-4133-4b91-aa99-df76ed3b6a72" />
+<img width="1909" height="700" alt="image" src="https://github.com/user-attachments/assets/7865d7d4-27a6-4334-88e0-13bfcb9b6cb8" />
+<img width="1901" height="643" alt="image" src="https://github.com/user-attachments/assets/934dfbaf-6459-4052-99d6-278e758c075a" />
+
+
+
